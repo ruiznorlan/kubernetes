@@ -13,3 +13,4 @@ Repositorio con ejemplos sobre los componentes de K8S
 - [LABELS](LABELS)
 - [SELECTORS](SELECTORS)
 - [ANNOTATIONS](ANNOTATIONS)
+- [DEPLOYMENTS](DEPLOYMENTS)
