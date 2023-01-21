@@ -16,3 +16,4 @@ Repositorio con ejemplos sobre los componentes de K8S
 - [DEPLOYMENTS](DEPLOYMENTS)
 - [SERVICE](SERVICE)
 - [CONFIGMAP](CONFIGMAP)
+- [SECRETS](SECRETS)
