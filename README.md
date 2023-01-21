@@ -15,3 +15,4 @@ Repositorio con ejemplos sobre los componentes de K8S
 - [ANNOTATIONS](ANNOTATIONS)
 - [DEPLOYMENTS](DEPLOYMENTS)
 - [SERVICE](SERVICE)
+- [CONFIGMAP](CONFIGMAP)
